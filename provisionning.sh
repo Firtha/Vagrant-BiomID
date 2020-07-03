@@ -21,6 +21,7 @@ cp /vagrant/importProject.sh /home/vagrant/importProject.sh
 
 # Manual commands :
 # sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+# chsh -s /usr/bin/zsh vagrant
 # --> TIP : vagrant default password is: vagrant
 
 echo "************"
