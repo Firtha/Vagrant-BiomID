@@ -11,7 +11,7 @@ Commands to quick start :
 $ vagrant up
 
 # Open SSH tunnel with VM
-& vagrant ssh
+$ vagrant ssh
 
 # Stop the VM
 $ vagrant halt
