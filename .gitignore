@@ -1,4 +1,3 @@
 *.vagrant
 ubuntu-bionic-18.04-cloudimg*
-biomid/
-biomid_react/
+biomid*/
